@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="lab_3_uut_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="lab_3_uut" />
+            <top_module name="mycomponent" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="10000139987500fs"></ZoomStartTime>
+      <ZoomEndTime time="10000140062501fs"></ZoomEndTime>
+      <Cursor1Time time="10000140015000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="167"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/lab_3_uut/in_datain" type="array">
+      <obj_property name="ElementShortName">in_datain[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in_datain[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_3_uut/in_regin_inn" type="array">
+      <obj_property name="ElementShortName">in_regin_inn[1:0]</obj_property>
+      <obj_property name="ObjectShortName">in_regin_inn[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_3_uut/in_regout_inn" type="array">
+      <obj_property name="ElementShortName">in_regout_inn[1:0]</obj_property>
+      <obj_property name="ObjectShortName">in_regout_inn[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_3_uut/in_alu_inn" type="array">
+      <obj_property name="ElementShortName">in_alu_inn[2:0]</obj_property>
+      <obj_property name="ObjectShortName">in_alu_inn[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_3_uut/in_enable" type="logic">
+      <obj_property name="ElementShortName">in_enable</obj_property>
+      <obj_property name="ObjectShortName">in_enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_3_uut/out_dataout" type="array">
+      <obj_property name="ElementShortName">out_dataout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out_dataout[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_3_uut/UUT/R0/q" type="array">
+      <obj_property name="ElementShortName">q[7:0]</obj_property>
+      <obj_property name="ObjectShortName">q[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_3_uut/UUT/R1/q" type="array">
+      <obj_property name="ElementShortName">q[7:0]</obj_property>
+      <obj_property name="ObjectShortName">q[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_3_uut/UUT/A/q" type="array">
+      <obj_property name="ElementShortName">q[7:0]</obj_property>
+      <obj_property name="ObjectShortName">q[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_3_uut/UUT/G/q" type="array">
+      <obj_property name="ElementShortName">q[7:0]</obj_property>
+      <obj_property name="ObjectShortName">q[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab_3_uut/UUT/ALU/F" type="array">
+      <obj_property name="ElementShortName">F[7:0]</obj_property>
+      <obj_property name="ObjectShortName">F[7:0]</obj_property>
+   </wvobject>
+</wave_config>

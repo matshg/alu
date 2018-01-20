@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../ELE112_my_components.vhd" \
+"../../../../lab_3.srcs/sources_1/new/aluc.vhd" \
+"../../../../lab_3.srcs/sources_1/new/reg.vhd" \
+"../../../../lab_3.srcs/sources_1/new/regin.vhd" \
+"../../../../lab_3.srcs/sources_1/new/regout.vhd" \
+"../../../../lab_3.srcs/sources_1/new/tri.vhd" \
+"../../../../lab_3.srcs/sources_1/new/lab_3.vhd" \
+
+# Do not sort compile order
+nosort
